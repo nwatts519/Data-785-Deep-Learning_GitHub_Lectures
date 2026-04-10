@@ -1,48 +1,9 @@
-# macOS system files
+Week 1 - Linear And Logistic Regression/Kaggle_Housing_Data.csv
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Personal folders
-private/
-notes/
-scratch/
-drafts/
-xPersonal/
-my_repo_only/
-Programs/
-
-# Microsoft Office files
-*.docx
-*.xlsx
-*.pptx
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Data files
-*.csv
-*.tsv
-*.parquet
-*.sav
-*.dta
-*.rds
-
-# Virtual environments
-venv/
-.env/
-.venv/
-
-# VS Code settings
-.vscode/
-
-# Logs and temp files
-*.log
-*.tmp
-*.bak
+Week 2 - Feed Forward Nueral Networks/.ipynb_checkpoints/Module 2 - Feed Forward Neural Networks-checkpoint.ipynb
+Week 4 - Word Embeddings/.ipynb_checkpoints/Module 4 - Word Embeddings And Natural Language Processing-checkpoint.ipynb
+Week 3 - Backpropagation/.ipynb_checkpoints/Module 3 - Back Propagation And Neural Networks-checkpoint.ipynb
+/Week 9 - Transformers/.ipynb_checkpoints
+.DS_Store
+/Week 10 - Normalizing Flows and Diffusion Models/data
+/Week 10 - Normalizing Flows and Diffusion Models/.ipynb_checkpoints
